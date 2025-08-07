@@ -1,0 +1,20 @@
+main{
+    padding: 60px 40px;
+    text-align: center;
+    /* background-color: #ffffff; */
+    margin: 40px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+.light {
+    background-color: #f0f0f0;
+    color: black;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.dark {
+    background-color: #333333;
+    color: white;
+    box-shadow: 0 4px 8px rgb(78, 78, 78);
+}
